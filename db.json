@@ -1,10 +1,12 @@
 {
    "accounts":[
       {
+         "id":1,
          "type":"SAVINGS_ACCOUNT",
          "balance":1100
       },
       {
+         "id":2,
          "type":"PERSONAL_ACCOUNT",
          "balance":3000
       }
