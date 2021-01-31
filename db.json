@@ -1,12 +1,13 @@
 {
-  "accounts": [
-    {
-      "type": "SAVINGS_ACCOUNT",
-      "balance": 1100
-    },
-    {
-      "type": "PERSONAL_ACCOUNT",
-      "balance": 3000
-    },   
-  ]
+  "accounts": 
+    [
+      {
+        "type": "SAVINGS_ACCOUNT",
+        "balance": 1100,
+      },
+      {
+        "type": "PERSONAL_ACCOUNT",
+        "balance": 3000
+      },   
+    ],
 }
